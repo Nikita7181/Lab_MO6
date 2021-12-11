@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Game_theory.dir/sources/main.cpp.o CMakeFiles/Game_theory.dir/sources/simplex.cpp.o -o Game_theory 
